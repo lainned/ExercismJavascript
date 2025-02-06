@@ -26,7 +26,9 @@
 //
 // 💡 You're allowed to completely clear a stub before you get started. Often
 // we recommend using the stub, because they are already set-up correctly to
-// work with the tests, which you can find in ./lasagna.spec.js
+// work with the tests, which you can fi
+// 
+// nd in ./lasagna.spec.js
 //
 // Good luck preparing some lasagna!
 
